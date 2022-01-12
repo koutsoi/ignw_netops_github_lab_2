@@ -1,6 +1,5 @@
-# Favorite fruit
-- mango
-- grape
-- orange
-- kiwi
+# Favorite Veggies
+- carrot
+- celery
+- tomato
 
